@@ -48,7 +48,7 @@ Thank you for your time and consideration.%0D%0A%0D%0A
 Best regards,%0D%0A
 ${form.name}`;
 
-    const mailtoLink = `mailto:flantiksolutions@gmail.com?subject=${encodeURIComponent(
+    const mailtoLink = `mailto:flantiksolution@gmail.com?subject=${encodeURIComponent(
       subject
     )}&body=${body}`;
 
